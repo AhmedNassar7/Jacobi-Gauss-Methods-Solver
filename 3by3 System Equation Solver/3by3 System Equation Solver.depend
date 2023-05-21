@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1684338872 source:c:\users\ayyanar\documents\codeblocks\jacobi & guass methods\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<thread>
+
+1684338872 source:c:\users\ayyanar\documents\codeblocks\3by3 system equation solver\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<thread>
+
